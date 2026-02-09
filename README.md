@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ItsCryztynn/ItsCryztynn/c7c1a1879a32ee001644a951f62b2b7f4cd2e4b1/Aia.png" alt="Christine Bañega Banner" width="100%">
+  <img src="https://github.com/ItsCryztynn/ItsCryztynn/blob/main/Aia%20(1).png?raw=true" alt="Christine Bañega Banner" width="100%">
 </p>
 
 <p align="center">
@@ -53,9 +53,12 @@
 
 ### 📊 My GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItsCryztynn&show_icons=true&theme=radical&hide_border=false" alt="Christine's GitHub stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsCryztynn&theme=radical" alt="GitHub Streak" height="150" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ItsCryztynn&show_icons=true&theme=radical&cache_seconds=1" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ItsCryztynn&theme=radical&cache_seconds=1" />
 </p>
 
 ---
