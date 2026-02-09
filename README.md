@@ -1,16 +1,65 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ItsCryztynn/ItsCryztynn/c7c1a1879a32ee001644a951f62b2b7f4cd2e4b1/Aia.png" alt="Christine Bañega Banner" width="100%">
+</p>
 
-<!--
-**ItsCryztynn/ItsCryztynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ItsCryztynn&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitors" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 About Me:
+
+| | |
+| --- | --- |
+| 👩‍💼 **Current Role:** Customer Experience Executive and General Virtual Assistant | 🛠️ **Expertise:** Administrative Tasks and Virtual Assistance |
+| 📈 **Aspiring:** Data Analyst | 🎯 **Goal:** Professional & Efficient Business Support |
+| 📍 **Location:** Taguig City, Philippines | 📧 **Email:** christinebanega71@gmail.com |
+| 📊 **Learning:** Excel, MySQL & Data Analytics | 🚀 **Open to:** New VA & Data Entry Opportunities |
+
+---
+
+### 🏅 Certifications:
+![TESDA Certified](https://img.shields.io/badge/TESDA%20Certified-English%20Proficiency%20for%20Customer%20Service-E00122?style=for-the-badge&logo=skillshare&logoColor=white)
+
+---
+### 🤝 How I Can Help Your Business:
+
+* **Email & Calendar Management:** Keeping your schedule organized and inbox clear.
+* **Customer Support:** Professional assistance via Email, Chat, and Phone.
+* **CRM Management:** Expert updates and record keeping using **Salesforce** and **ICOMS**.
+* **Data & Admin:** Precise Data Entry, File Organization, and Administrative Support.
+* **Technical Assistance:** Troubleshooting support and technical documentation.
+* **Social Media:** Reliable scheduling and content support.
+---
+
+### 🛠️ Tools I Used:
+
+#### **Google Workspace**
+![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white) ![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white) ![Google Tasks](https://img.shields.io/badge/Google_Tasks-2684FC?style=for-the-badge&logo=googletasks&logoColor=white) ![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+
+#### **Productivity & Office**
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white) ![Calendly](https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white)
+
+#### **CRM, Communication & Marketing**
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-0467DF?style=for-the-badge&logo=meta&logoColor=white) ![Pinterest](https://img.shields.io/badge/Tailwind-E60023?style=for-the-badge&logo=pinterest&logoColor=white)
+
+#### **Data & Technical**
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00517A?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+---
+
+### 📊 My GitHub Stats:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ItsCryztynn&show_icons=true&theme=radical&hide_border=false" alt="Christine's GitHub stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsCryztynn&theme=radical" alt="GitHub Streak" height="150" />
+</p>
+
+---
+
+### 📬 Let's Connect!
+* **LinkedIn:** [Christine Bañega](https://www.linkedin.com/in/christine-m-ba%C3%B1ega-968600185/)
+* **Portfolio Repository:** [Explore My Work Samples](./va-portfolio)
