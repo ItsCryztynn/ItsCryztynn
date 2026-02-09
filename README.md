@@ -12,10 +12,11 @@
 
 | | |
 | --- | --- |
-| 👩‍💼 **Current Role:** Customer Experience Executive and General Virtual Assistant | 🛠️ **Expertise:** Administrative Tasks and Virtual Assistance |
-| 📈 **Aspiring:** Data Analyst | 🎯 **Goal:** Professional & Efficient Business Support |
-| 📍 **Location:** Taguig City, Philippines | 📧 **Email:** christinebanega71@gmail.com |
+| 👩‍💼 **Current Role:** Customer Experience Executive & GVA | 🎓 **Education:** BS MATH Student at PUP - OU |
+| 🛠️ **Expertise:** Administrative Tasks & Virtual Assistance | 🎯 **Goal:** Professional & Efficient Business Support |
+| 📈 **Aspiring:** Data Analyst | 📧 **Email:** christinebanega71@gmail.com |
 | 📊 **Learning:** Excel, MySQL & Data Analytics | 🚀 **Open to:** New VA & Data Entry Opportunities |
+| 📍 **Location:** Taguig City, Philippines | 
 
 ---
 
