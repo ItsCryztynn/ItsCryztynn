@@ -49,17 +49,13 @@
 
 ---
 
-### 📊 My GitHub Stats:
+### 📊 My GitHub Stats: ##
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItsCryztynn&show_icons=true&theme=radical&cache_seconds=1" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ItsCryztynn&theme=radical&cache_seconds=1" />
-</p>
-
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=ItsCryztynn&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
+</div>
 ---
+
 
 ### 📬 Let's Connect!
 * **LinkedIn:** [Christine Bañega](https://www.linkedin.com/in/christine-banega)
