@@ -48,7 +48,7 @@
 #### **Data & Technical**
 <p align="left">
   <img src="https://raw.githubusercontent.com/ItsCryztynn/ItsCryztynn/5e1c87bc2cafbcbf0fdcb066a55b751da41d57fb/file-excel-solid-full.svg" width="70" height="70" alt="Excel">
-  <img src="https://img.shields.io/badge/-00517A?style=for-the-badge&logo=mysql&logoColor=white" width="70" height="70">
+  <img src="https://raw.githubusercontent.com/ItsCryztynn/ItsCryztynn/087975354b07bc975f8107a8b51ab397a25460b0/sql-database-sql-azure-svgrepo-com.svg" width="70" height="70" alt="SQL">
 </p>
 
 ---
